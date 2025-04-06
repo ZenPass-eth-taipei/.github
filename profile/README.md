@@ -6,8 +6,8 @@ ZenPass is a next-generation POAP (Proof of Attendance Protocol) platform that t
 
 ## Key Features
 
-- **Seamless Onboarding & Geo-Verification**  
-  Instant user onboarding and geo-verification ensure that only attendees inside the event zone can interact with ZenPass experiences.
+- **Seamless Onboarding, Geo-Verification & Proof of Personhood**  
+  Instant user onboarding with **World ID verification** ensures that only unique, verified humans inside the event zone can interact with ZenPass experiences—adding Sybil-resistance and real-world authenticity.
 
 - **Immersive AR Activation**  
   When the user opens the camera, AR elements guide and enhance the experience, allowing attendees to interact with booths in a gamified way.
